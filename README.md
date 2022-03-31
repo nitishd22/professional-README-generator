@@ -7,12 +7,7 @@
   - [Contact](#contact)
   
   ## Visual Demonstration
-
-  ![demo](images/visualdemo.GIF)
-
-
-
-
+  ![demo](images/visualdemo.gif)
 
   ## Description: 
   A command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
